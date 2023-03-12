@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JetpackComposeApp</string>
+    <string name="no_data">No result found</string>
+    <string name="no_internet">Ups… Something went wrong</string>
+    <string name="searchbar_placeholder">Search pet shop here</string>
+</resources>
